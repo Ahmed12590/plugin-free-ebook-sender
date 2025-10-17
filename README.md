@@ -1,7 +1,7 @@
 Plugin Name: Free eBook Sender for Hardcover Orders
 Version: 1.0.0
 Author: Ahmed
-Website: https://tales2btold.com/
+
 
 📘 Overview
 

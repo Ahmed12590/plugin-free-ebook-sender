@@ -3,7 +3,7 @@
 Plugin Name: Free eBook Sender for Hardcover Orders
 Plugin URI: https://tales2btold.com/
 Description: Automatically sends a free eBook when a customer purchases the Hardcover version of "Surviving Cushing’s Disease" and shows a message in the cart.
-Version: 1.2
+Version: 1.0.0
 Author: Ahmed
 */
 
