@@ -19,7 +19,7 @@ function fes_send_free_ebook_for_hardcover($order_id) {
     if (!$order_id) return;
 
     $order = wc_get_order($order_id);
-    $ebook_url = 'http://tales2btold.com/wp-content/uploads/woocommerce_uploads/2025/04/Tales-To-Be-Told-by-Chuck-Knueve-English-ndc6h0.pdf';
+    $ebook_url = 'https://tales2btold.com/wp-content/uploads/book/Tales-To-Be-Told-by-Chuck-Knueve-English-ndc6h0.pdf';
     $hardcover_variation_id = 1890; 
     $ebook_sent = false;
 
